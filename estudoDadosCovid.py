@@ -2,6 +2,9 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
+versao = px.__doc__
+print(versao)
+
 
 
 # lendo dataset
